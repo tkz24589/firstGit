@@ -10,5 +10,11 @@ Creating a new branch is quick AND simple.
 >>>>>>> featurel
 =======
 add merge
+<<<<<<< HEAD
 fix bug 101.
 fix bug 102.
+=======
+I still work,but there has a bug.
+I am so ...
+>>>>>>> dev
+?????????
